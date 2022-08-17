@@ -2,3 +2,6 @@ theme: jekyll-theme-merlot
 
 title: Mike Stratton
 description: Software Architect, Full Stack Web Developer, PHP/Laravel
+
+show_downloads: true
+# google_analytics: [Your Google Analytics tracking ID]
